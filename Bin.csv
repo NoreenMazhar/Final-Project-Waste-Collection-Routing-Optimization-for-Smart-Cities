@@ -1,0 +1,27 @@
+Name,Fill Level,Location,Region,Collected
+Bin1,65,A,Region1,1
+Bin2,23,D,Region2,1
+Bin3,88,B,Region1,1
+Bin4,91,C,Region1,1
+Bin5,47,E,Region2,0
+Bin6,72,F,Region2,1
+Bin7,60,G,Region3,1
+Bin8,82,H,Region3,1
+Bin9,35,I,Region3,0
+Bin10,99,J,Region4,1
+Bin11,50,K,Region4,1
+Bin12,78,L,Region4,1
+Bin13,25,M,Region5,0
+Bin14,70,N,Region5,1
+Bin15,40,O,Region5,0
+Bin16,90,P,Region1,1
+Bin17,10,Q,Region2,0
+Bin18,55,R,Region3,1
+Bin19,80,S,Region4,1
+Bin20,45,T,Region5,0
+Bin21,73,U,Region1,1
+Bin22,67,V,Region2,1
+Bin23,94,W,Region3,1
+Bin24,39,X,Region4,0
+Bin25,85,Y,Region5,1
+Bin26,28,Z,Region1,0

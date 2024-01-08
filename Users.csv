@@ -1,0 +1,14 @@
+Email,Password,Name,Phone,Role
+john_doe@example.com,pass1234,John Doe,123-456-7890,Controller
+emily_smith@example.com,smith5678,Emily Smith,987-654-3210,Driver
+alex.jones@emailprovider.com,jonesPass!,Alex Jones,555-123-7890,Controller
+sarah_brown@example.com,brownsarah1,Sarah Brown,456-789-0123,Driver
+mike_wilson@emaildomain.com,wilsonMike23,Mike Wilson,789-012-3456,Controller
+lisa_jackson@example.com,lisaPass@321,Lisa Jackson,234-567-8901,Driver
+robert_clark@emailhost.com,clarkRob456,Robert Clark,876-543-2109,Controller
+olivia_white@example.com,whiteOlivia99,Olivia White,321-654-0987,Driver
+chris_baker@emailprovider.com,bakerChris@789,Chris Baker,654-321-9870,Controller
+jessica_green@example.com,greenJessica78,Jessica Green,210-987-6543,Driver
+A1,1234,Me,210-987-6543,Controller
+D1,1234,Me,876-543-2109,Driver
+no@gmail.com,no123,no,0515554895,212345
